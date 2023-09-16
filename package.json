@@ -14,10 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/Amit123456987/distnode-deploy.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Amit123456987/distnode-deploy/issues"
   },
-  "homepage": "https://github.com/Amit123456987/distnode-deploy#readme"
+  "homepage": "https://github.com/Amit123456987/distnode-deploy#readme",
+  "dependencies": {
+    "fastify": "3.2"
+  }
 }
